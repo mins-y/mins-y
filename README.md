@@ -1,8 +1,8 @@
-# Welcome to my profile. I'm [Your Name] 👋
+# Welcome to my profile. I'm min 👋
 
-## 🛡️ Cybersecurity Assessment & IT Support Enthusiast
+## 🛡️ Cybersecurity Assessment 
 
-Experienced in cybersecurity assessment, with practical knowledge in security testing and vulnerability analysis. I'm focused on helping organizations strengthen their digital infrastructure through authorized testing methods. Beyond security, I enjoy supporting IT operations and ensuring smooth technology deployment.
+Experienced in cybersecurity assessment, with practical knowledge in security testing and vulnerability analysis. I'm focused on helping organizations strengthen their digital infrastructure through authorized testing methods. 
 
 ### 🛠️ Technologies & Tools
 
@@ -27,53 +27,5 @@ Experienced in cybersecurity assessment, with practical knowledge in security te
 
 - 🔐 Strengthening my expertise in security testing methodologies.
 - 🔍 Applying vulnerability analysis techniques to real-world scenarios.
-- 💻 Contributing to IT support and infrastructure setup.
-- 📚 Completing my thesis on Denial of Service attack detection.
-
-### 💼 Experience
-
-**International Games Broadcast Services Asian Games · July - September 2018**
-
-* **IT Intern**
-    * Assisted the IT team in their daily work.
-    * Supported the distribution of IT equipment across venues.
-    * Provided support and setup assistance for IT requests.
-
-### 🎓 Education
-
-**Bina Nusantara University · August 2024 (Expected)**
-
-* **S.Kom, Cyber Security**
-    * Major in Cyber Security.
-    * Thesis: "Pengembangan Sistem Deteksi Serangan Denial of Service Pada Protocol TCP dan UDP” (Development of a Denial of Service Attack Detection System on TCP and UDP Protocols).
-
-**Binus SOCS · 2022**
-
-* **Application Developer**
-    * Developed a Python mobile application.
-    * Implemented Arduino projects using Blynk.
-
-### Soft Skills
-
-* Interpersonal Skills
-* Problem-Solving
-* Time Management
-* Organization
-* Teamwork
-* Communication
-* Critical Thinking
-* Creative Thinking
-
-### 🗣️ Languages
-
-* Bahasa Indonesia (Native)
-* English (Proficient)
-
-### 📫 Let's Connect!
-
-* [Your LinkedIn Profile URL (Optional)]
-* [Your Twitter Profile URL (Optional)]
-* [Your Personal Website/Portfolio URL (Optional)]
-* [Your Email Address (Optional)]
 
 Feel free to reach out if you have any questions or would like to connect!
